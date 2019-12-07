@@ -1,7 +1,7 @@
 # mouseMazeAI
 This project was part of the CSCI 1133 course at the Unviersity of Mnnesota Twin-Cities.
 
-Programming Languages used: Python
+Programming Languages used: **Python (+ Turtle library)**
 This Project was about designing a self-modifying AI that would allow the "Mouse" to get to the "cheese" (objective).
 
 This is done through a points system (added points for positive actions like getting closer, not backtracking...)
